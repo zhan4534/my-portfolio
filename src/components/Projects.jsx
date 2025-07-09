@@ -7,7 +7,7 @@ const projects = [
       description: "A React-based portfolio. Click About on the navbar to learn more.",
       tech: ["React", "Javascript", "TailwindCSS"],
       links: [
-        { label: "GitHub", url: "https://github.com/zhan4534/ECE570-code-submission" },
+        { label: "GitHub", url: "https://github.com/zhan4534/my-portfolio" },
       ],
     },
     {
